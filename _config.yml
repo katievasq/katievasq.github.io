@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Katie Vasquez"
 title_separator          : "-"
-name                     : &name "Katie Vasquez"
+name                     : &name #
 description              : &description "personal description"
 url                      : https://katievasq.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   avatar           : "p0.png"
   name             : "Katie Vasquez"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Developmental Psychology Researcher"
   location         : #"Earth"
   employer         : "University of Chicago"
   uri              : # URL
@@ -352,4 +352,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
