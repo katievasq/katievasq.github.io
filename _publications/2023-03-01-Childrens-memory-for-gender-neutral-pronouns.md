@@ -2,7 +2,7 @@
 title: "Children’s memory for gender-neutral pronouns"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2023-03-01-Childrens-memory-for-gender-neutral-pronouns
 excerpt: 'This paper is about children's ability to refer to third-parties with the gender-neutral "they"'
 date: 2023-03-01
 venue: 'Journal of Experimental Child Psychology'
