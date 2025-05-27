@@ -1,8 +1,8 @@
 ---
-title: "The non-meek inherit the earth: Children generalize dominance, but not submissiveness"
+title: "The non-meek inherit the earth Children generalize dominance, but not submissiveness"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2024-07-01-The-non-meek-inherit-the-earth-Children-generalize-dominance-but-not-submissiveness
 excerpt: 'This paper is about children's use of the transitive inference, as it applies to dominance and subordinace'
 date: 2024-07-01
 venue: 'Developmental Psychology'
