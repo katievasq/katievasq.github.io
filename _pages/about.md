@@ -15,4 +15,4 @@ Here are some research areas I am exploring right now:
 
 ![Research Interests](/images/research-interests.png)
 
-![Research Interests](/images/Presentation1.png)
+![Research Interests ](/images/Presentation1.png)
