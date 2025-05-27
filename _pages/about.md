@@ -11,7 +11,7 @@ People are often told to “be themselves.” But the social world challenges us
 
 I am currently a Ph.D. student at the University of Chicago working with Alex Shaw at the [Developmental Investigations of Behavior and Strategy Lab](https://www.dibslab.uchicago.edu/). Before graduate school, I was a lab manager for Yarrow Dunham and Paul Bloom at Yale University. Here are some research areas I am exploring right now: 
 
-![Research Interests For Site](/images/Presentation1.png)
+![Research Interests For Site](/images/research-interests-for-site.png)
 
 
 
