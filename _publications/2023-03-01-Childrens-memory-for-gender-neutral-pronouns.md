@@ -1,8 +1,8 @@
 ---
-title: "Childrens memory for gender-neutral pronouns"
+title: "Children's memory for gender-neutral pronouns"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-03-01-Childrens-memory-for-gender-neutral-pronouns
+permalink: /publication/2023-03-01-Children's-memory-for-gender-neutral-pronouns
 excerpt: 'This paper is about children's ability to refer to third-parties with the gender-neutral "they"'
 date: 2023-03-01
 venue: 'Journal of Experimental Child Psychology'
