@@ -14,3 +14,5 @@ I am currently a Ph.D. student at the University of Chicago working with Alex Sh
 Here are some questions I'm exploring right now. 
 
 ![Research Interests](/images/research-interests.png)
+
+![Research Interests](/images/Presentation1.png)
